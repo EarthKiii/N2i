@@ -1,0 +1,22 @@
+{
+  "name": "n2i",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alaixs/N2i.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alaixs/N2i/issues"
+  },
+  "homepage": "https://github.com/Alaixs/N2i#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
