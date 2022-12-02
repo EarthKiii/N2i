@@ -10,10 +10,10 @@ Vous pouvez accéder au site en cliquant [ici](https://alaixs.github.io/N2i/)
 
 ## Features
 
-- Un quiz sur des questions pertinente et des commentaires complet
-- Des animations et un menu stylé
-- Un système de score pour voir si on est le meilleur
-- Des eastereggs sympaaaas
+- 😎 Un quiz sur des questions pertinente et des commentaires complet
+- 💫 Des animations et un menu stylé
+- 💯 Un système de score pour voir si on est le meilleur
+- 🥚 Des eastereggs sympaaaas
 
 
 ## Auteurs
