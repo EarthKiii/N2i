@@ -20,14 +20,6 @@ Vous pouvez accéder au site en cliquant 👉[ici](https://alaixs.github.io/N2i/
 - 💯 Un système de score pour voir si on est le meilleur
 - 🥚 Des eastereggs sympaaaas
 
-## Color Reference
-
-| Hex                                                                |
-| ------------------------------------------------------------------ |
-![#251B37](https://via.placeholder.com/30/251B37?text=+) |
-![#372948](https://via.placeholder.com/30/372948?text=+) |
-![#FFCACA](https://via.placeholder.com/30/FFCACA?text=+) |
-![#FFECEF](https://via.placeholder.com/30/FFECEF?text=+) |
 
 ## Auteurs
 
@@ -35,11 +27,6 @@ Vous pouvez accéder au site en cliquant 👉[ici](https://alaixs.github.io/N2i/
 - [@ivan-bortnik](https://github.com/ivan-bortnik)
 - [@Voidoffi](https://github.com/Voidoffi)
 
-## Color Reference
-
-| Hex                                                                |
-| ------------------------------------------------------------------ |
-![#251B37](https://via.placeholder.com/30/251B37?text=+) #251B37 |
-![#372948](https://via.placeholder.com/30/372948?text=+) #372948 |
-![#FFCACA](https://via.placeholder.com/30/FFCACA?text=+) #FFCACA |
-![#FFECEF](https://via.placeholder.com/30/FFECEF?text=+) #FFECEF |
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
