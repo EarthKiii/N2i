@@ -2,34 +2,108 @@
 
 html {
     font-family: 'Nunito';
-    background-color: #eddcb4;
-    color: #1f1603;
+    background-color:  #FFECEF;
+    color: #251B37;
 }
 
 h1 {
     font-size: 55pt;
     text-align: center;
+    margin: 16px;
+}
+
+.linear-wipe {
+    
+    background: linear-gradient(to right, #251B37 20%, #FFCACA 40%, #FFCACA 60%, #251B37 80%);
+    background-size: 200% auto;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-animation: shine 2.5s linear infinite;
+            animation: shine 2.5s linear infinite;
+  }
+  @-webkit-keyframes shine {
+    to {
+      background-position: 200% center;
+    }
+  }
+  @keyframes shine {
+    to {
+      background-position: 200% center;
+    }
+  }
+
+.help{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    position: absolute;
+    background: black;
+
 }
 
 h2 {
     text-align: center;
+    margin: 16px;
+}
+
+.question {
+    font-size: 22pt;
+    text-align: center;
+    font-weight: bold;
 }
 
 #quiz-container {
-    position: relative;
-    background-color: #dbc082;
-    border-radius: 16px;
     width: 100vw;
-    max-width: 650px;
-    margin: auto;
-    display: flex;
-    flex-wrap: wrap;
+}
+
+.quiz-question {
+    width: 800px;
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto;
+    transform: translateX(-50%);
+    background-color: #FFCACA;
+    text-align: center;
+    border-radius: 16px;
+    animation: zoomin .3s forwards;
 }
 
 .quiz-button {
-    padding: 16px;
-    background-color: #b9994c;
+    font-size: 16pt;
+    font-weight: 400;
+    background-color: #372948;
+    color: white;
+    border: none;
     border-radius: 16px;
+    padding: 16px;
     margin: 16px;
-    width: 50%;
+    box-shadow: inset 0px 0px 0px 0px #FFCACA;
+    transition: .3s;
+}
+
+.quiz-button:hover {
+    box-shadow: inset 0px 0px 0px 64px #FFECEF;
+    transition: .3s;
+    color: #251B37;
+}
+
+@keyframes slide {
+    to {
+        transform: translateX(-200vw);
+    }
+}
+
+@keyframes zoomin {
+    from {
+        transform: scale(0);
+    }
+
+    to {
+        transform: scale(1);
+    }
 }

@@ -1,0 +1,7 @@
+{"questions" :
+    [
+        {"question": "Le sida ?", "answers": ["oui", "non", "peut-être"], "rightAnswerIndex": 0},
+        {"question": "Le sida2 ?", "answers": ["ou2i", "no2n", "peu2t-être"], "rightAnswerIndex": 2},
+        {"question": "Le sida3 ?", "answers": ["ou3i", "no3n", "peu3t-être"], "rightAnswerIndex": 1}
+    ]
+}
