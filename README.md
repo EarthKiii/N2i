@@ -20,13 +20,14 @@ Vous pouvez accéder au site en cliquant 👉[ici](https://alaixs.github.io/N2i/
 - 💯 Un système de score pour voir si on est le meilleur
 - 🥚 Des eastereggs sympaaaas
 
+## Color Reference
+- ![#251B37](https://placehold.co/15x15/251B37/251B37.png) `#251B37`
+- ![#372948](https://placehold.co/15x15/372948/372948.png) `#372948`
+- ![#FFCACA](https://placehold.co/15x15/FFCACA/FFCACA.png) `#FFCACA`
+- ![#FFECEF](https://placehold.co/15x15/FFECEF/FFECEF.png) `#FFECEF`
 
 ## Auteurs
 
 - [@Alaixs](https://github.com/Alaixs)
 - [@ivan-bortnik](https://github.com/ivan-bortnik)
 - [@Voidoffi](https://github.com/Voidoffi)
-
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
