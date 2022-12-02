@@ -10,7 +10,7 @@ Un jeu à propos des maladies sexuellement transmissible
 
 ## Le site
 
-Vous pouvez accéder au site en cliquant 👉[ici](https://alaixs.github.io/N2i/)👈
+Vous pouvez accéder au site en cliquant 👉[ici](https://jellyfish-app-4ahp6.ondigitalocean.app/)👈
 
 ## Les eastereggs
 Je vous propose quelques énigmes pour vous aider à les trouver ! Si vous êtes en manque d'inspiration et que vous avez du mal, vous trouverez les réponses à la fin de ce readme ;)
