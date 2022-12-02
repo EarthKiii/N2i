@@ -18,6 +18,6 @@ Vous pouvez accéder au site en cliquant [ici](https://alaixs.github.io/N2i/)
 
 ## Auteurs
 
-- [@Alaixs] (https://github.com/Alaixs)
+- [@Alaixs](https://github.com/Alaixs)
 - [@ivan-bortnik](https://github.com/ivan-bortnik)
 - [@Voidoffi](https://github.com/Voidoffi)
