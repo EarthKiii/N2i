@@ -1,0 +1,327 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap');
+
+html {
+    font-family: 'Nunito';
+    background-color:  #FFECEF;
+    color: #251B37;
+}
+
+body {
+    padding: 64px;
+    overflow-x: hidden;
+}
+
+p {
+    font-size: 15pt;
+    text-align: center;
+    margin: 16px;
+}
+
+h1 {
+    font-size: 55pt;
+    text-align: center;
+    margin: 16px;
+}
+
+h2 {
+    font-size: 35pt;
+    text-align: center;
+    margin: 16px;
+}
+
+button {
+    font-family: 'Nunito';
+    font-weight: 700;
+}
+
+.info-background {
+    position: absolute;
+    background-color: rgba(0, 0, 0, .7);
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    display: none;
+    margin: 0;
+ }
+
+ .info {
+    position: absolute;
+    background-color: #FFECEF;
+    width: 90vw;
+    position: absolute; 
+    left: 0; 
+    right: 0;
+    top: 0;
+    right: 0;
+    margin: auto;
+    max-width: 800px;
+    border-radius: 16px;
+    padding: 32px;
+    animation: zoomin .3s forwards;
+    top: 128px;
+ }
+
+ .close-btn {
+    position: absolute;
+    right: 32px;
+    top: 32px;
+    width: 32px;
+    height: 32px;
+    opacity: 0.3;
+  }
+  .close-btn:hover {
+    opacity: 1;
+  }
+  .close-btn:before, .close-btn:after {
+    position: absolute;
+    left: 15px;
+    content: ' ';
+    height: 33px;
+    width: 2px;
+    background-color: #333;
+  }
+  .close-btn:before {
+    transform: rotate(45deg);
+  }
+  .close-btn:after {
+    transform: rotate(-45deg);
+  }
+
+.help{
+    margin: 0 auto;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    position: absolute;
+    background: #251B37;
+    top: 32px;
+    right: 32px;
+}
+.score{
+    display: flex;
+    margin: 0 auto;
+    width: 250px;
+    height: 80px;
+    border-radius: 40px;
+    position: absolute;
+    background: #251B37;
+    justify-content: left;
+    align-items: center;
+    top: 32px;
+    left: 32px;
+}
+.score-text{
+    margin-left: 15px;
+    color: white;
+    font-size: 40px;
+    width: 250px;
+    font-weight: bold;
+    text-align: center;
+    user-select: none;
+}
+.qmark{
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    width: 60px;
+    text-align: center;
+    margin: auto;
+    user-select: none;
+    transition: .05s;
+}
+
+.help:active {
+    transform: scale(.8);
+    transition: .05s;
+}
+
+h2 {
+    text-align: center;
+    margin: 16px;
+}
+
+.question {
+    width: 100vw;
+    font-size: 22pt;
+    text-align: center;
+    font-weight: bold;
+}
+
+.main {
+    width: 100vw;
+}
+
+.quiz-container{
+    width: 800px;
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    margin: auto;
+    text-align: center;
+    border-radius: 16px;
+    animation: zoomin .3s forwards;
+    display: none;
+}
+
+.main div:nth-child(1) {
+    display: block;
+}
+
+.question {
+    width: 800px;
+    background-color: #FFCACA;
+    border-radius: 16px;
+    padding: 16px 0;
+    margin: 16px 0;
+    display: flex;
+}
+
+.question h2 {
+    margin: 32px;
+}
+
+.question-title {
+    font-size: 22pt;
+    font-weight: 800;
+    margin-bottom: 16px;
+}
+
+.explanation {
+    width: 100%;
+    background-color: #61a125;
+    color: white;
+    border-radius: 16px;
+    padding: 16px 0;
+    margin: 16px 0;
+    display: none;
+    animation: drop .3s forwards;
+}
+
+.next-question-btn {
+    width: 100%;
+    outline: none;
+    font-weight: 800;
+    padding: 8px;
+    border: none;
+    font-size: 16pt;
+    background-color: #40750e;
+    color: white;
+    transition: .05s;
+}
+
+.next-question-btn:hover {
+    background-color: #fff;
+    color: black;
+    transition: .05s;
+}
+
+.quiz-button {
+    flex-grow: 1;
+    font-size: 18pt;
+    font-weight: 800;
+    background-color: #372948;
+    color: white;
+    border: none;
+    border-radius: 16px;
+    padding: 16px 32px;
+    margin: 16px;
+    box-shadow: inset 0px 0px 0px 0px #FFCACA;
+    transition: .3s;
+}
+
+.quiz-button:hover {
+    box-shadow: inset 0px 0px 0px 64px #FFECEF;
+    transition: .3s;
+    color: #251B37;
+}
+
+.quiz-button:focus {
+    background-color: #ffffff;
+    color: black;
+}
+
+.img-container {
+    width: 100%;
+    max-height: 200px;
+}
+
+.img {
+    height: 200px;
+    border-radius: 16px;
+}
+
+.konami-background {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    animation: konami 2s forwards;
+    display: none;
+}
+
+.konami-background img {
+    position: absolute;
+    left: 50vw;
+    top: 50vh;
+    transform: translate(-50%, -50%);
+}
+
+.end-screen {
+    background-color: #40750e;
+    padding: 32px;
+    border-radius: 16px;
+    animation: zoomin .3s forwards;
+    display: none;
+    color: white;
+}
+
+@keyframes slideLeft {
+    to {
+        transform: translateX(-200vw);
+    }
+}
+
+@keyframes slideRight {
+    to {
+        transform: translateX(200vw);
+    }
+}
+
+@keyframes zoomin {
+    from {
+        transform: scale(0);
+    }
+    
+    to {
+        transform: scale(1);
+    }
+}
+
+@keyframes drop {
+    from {
+        transform: translateY(-200%);
+        opacity: 0;
+    }
+    
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes konami {
+    from {
+        transform: scale(0);
+    }
+
+    50% {
+        transform: scale(2);
+    }
+
+    to {
+        transform: scale(0);
+    }
+}
