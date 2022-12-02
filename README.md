@@ -20,6 +20,14 @@ Vous pouvez accéder au site en cliquant 👉[ici](https://alaixs.github.io/N2i/
 - 💯 Un système de score pour voir si on est le meilleur
 - 🥚 Des eastereggs sympaaaas
 
+## Color Reference
+
+| Hex                                                                |
+| ------------------------------------------------------------------ |
+![#251B37](https://via.placeholder.com/30/251B37?text=+) #251B37 |
+![#372948](https://via.placeholder.com/30/372948?text=+) #372948 |
+![#FFCACA](https://via.placeholder.com/30/FFCACA?text=+) #FFCACA |
+![#FFECEF](https://via.placeholder.com/30/FFECEF?text=+) #FFECEF |
 
 ## Auteurs
 
