@@ -12,7 +12,7 @@ Un jeu à propos des maladies sexuellement transmissible
 
 Vous pouvez accéder au site en cliquant 👉[ici](https://alaixs.github.io/N2i/)👈
 
-##Les eastereggs
+## Les eastereggs
 Je vous propose quelques énigmes pour vous aider à les trouver ! Si vous êtes en manque d'inspiration et que vous avez du mal, vous trouverez les réponses à la fin de ce readme ;)
 
 Sur cette note...
