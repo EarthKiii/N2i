@@ -45,3 +45,6 @@ Sur cette note...
 
 - Le premier fait référence au fameux "Konami Code", un code mythique de 1986 qui a traversé les âges et les générations. Pour le réaliser, il suffit de faire avec son clavier : haut, haut, bas, bas, gauche, droite, gauche, droite, B, A et taadaa !
 - Le second fait référence à l'erreur 404, une page dont l'url est corrompue. Pour s'en rendre compte il suffit de mettre à côté de l'url une barre oblique ('/') puis n'importe quel caractère que vous voulez et vous tomberez sur cette fameuse page.
+
+## Crédit 
+Les données relatives aux images présentes sur ce site proviennent de données Wikidata collectées le 1er décembre 2022 à l'aide du site web de ce dernier.
